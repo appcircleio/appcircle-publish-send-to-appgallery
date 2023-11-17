@@ -18,7 +18,6 @@ inputs:
   description: Filling that area may effect huawei submission process.
   helpText:
 - key: "AC_HUAWEI_APP_ID"
-  editorType: input
   isRequired: true
   title: Huawei App Id can be found on AppGallery portal
   description: Huawei requires Huawei App Id to send to AppGallery.
