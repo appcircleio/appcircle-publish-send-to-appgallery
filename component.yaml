@@ -2,6 +2,7 @@ platform: Android
 buildPlatform:
 displayName: "Send an App version to Huawei App Gallery "
 description: "Select a Huawei Api key for the process"
+marketPlace : "HuaweiAppGallery"
 inputs:
 - key: "AC_STORE_CREDENTIAL_ID"
   defaultValue: "Select"
