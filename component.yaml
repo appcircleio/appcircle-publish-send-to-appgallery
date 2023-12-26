@@ -8,7 +8,7 @@ inputs:
   defaultValue: "Select"
   isRequired: true
   editorType: select
-  title: Which Huawei Api connection will be used
+  title: Select a Huawei Api Key
   description: "Select a store credential, managed in Integrations."
   options: "ServerCallRequiredToGetValues"
   helpText:
