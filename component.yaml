@@ -14,7 +14,7 @@ inputs:
   helpText:
 - key: "AC_HUAWEI_APP_ID"
   isRequired: true
-  title: Huawei App Id can be found on AppGallery portal
+  title: Huawei App Id
   description: Huawei requires Huawei App Id to send to AppGallery.
   helpText:
 - key: "AC_RELEASE_NOTES"
