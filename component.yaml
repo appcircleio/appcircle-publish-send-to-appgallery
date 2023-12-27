@@ -1,6 +1,6 @@
 platform: Android
 buildPlatform:
-displayName: "Send an App version to Huawei App Gallery "
+displayName: "Send an App version to Huawei AppGallery"
 description: "Select a Huawei Api key for the process"
 marketPlace: "HuaweiAppGallery"
 inputs:
