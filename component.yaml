@@ -1,7 +1,7 @@
 platform: Android
 buildPlatform:
-displayName: "Send an App version to Huawei AppGallery"
-description: "Select a Huawei Api key for the process"
+displayName: "Send to Huawei AppGallery"
+description: "Upload binary for AppGallery publishing"
 marketPlace: "HuaweiAppGallery"
 inputs:
 - key: "AC_STORE_CREDENTIAL_ID"
