@@ -1,4 +1,5 @@
 platform: Android
+purpose: Publish
 buildPlatform:
 displayName: "Send to Huawei AppGallery"
 description: "Upload binary for AppGallery publishing"
