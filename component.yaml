@@ -7,7 +7,7 @@ marketPlace: "HuaweiAppGallery"
 inputs:
 - key: "AC_STORE_CREDENTIAL_ID"
   defaultValue: "Select"
-  isRequired: true
+  isRequired: false
   editorType: select
   title: Select a Huawei Api Key
   description: "Select a store credential, managed in Integrations."
