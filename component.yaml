@@ -5,14 +5,6 @@ displayName: "Send to Huawei AppGallery"
 description: "Upload binary for AppGallery publishing"
 marketPlace: "HuaweiAppGallery"
 inputs:
-- key: "AC_STORE_CREDENTIAL_ID"
-  defaultValue: "Select"
-  isRequired: false
-  editorType: select
-  title: Select a Huawei Api Key
-  description: "Select a store credential, managed in Integrations."
-  options: "ServerCallRequiredToGetValues"
-  helpText:
 - key: "AC_HUAWEI_APP_ID"
   isRequired: true
   title: Huawei App Id
