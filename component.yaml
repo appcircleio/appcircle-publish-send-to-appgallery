@@ -6,6 +6,7 @@ description: "Upload binary for AppGallery publishing"
 marketPlace: "HuaweiAppGallery"
 inputs:
 - key: "AC_HUAWEI_APP_ID"
+  defaultValue: "$AC_HUAWEI_APP_ID"
   isRequired: true
   title: Huawei App Id
   description: Huawei requires Huawei App Id to send to AppGallery.
